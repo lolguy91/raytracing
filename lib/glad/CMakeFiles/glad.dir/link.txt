@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/ati/Desktop/code/raytracing/bin/libglad.a CMakeFiles/glad.dir/src/glad.c.o
+/usr/bin/ranlib /home/ati/Desktop/code/raytracing/bin/libglad.a
